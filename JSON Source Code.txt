@@ -1,0 +1,911 @@
+{
+  "result": "success",
+  "jobs": [
+    {
+      "id": 41900183,
+      "reference": "1000",
+      "startTime": null,
+      "endTime": null,
+      "priority": 2,
+      "title": "Geo opp Test",
+      "description": "test geo opp",
+      "jobNumber": "",
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-11T10:08:13.031133+00:00",
+      "modified": "2021-03-12T09:30:14.785118+00:00",
+      "client": {
+        "id": 15313333
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "12 Devonshire Avenue",
+        "line2": "Bryanston",
+        "city": "Sandton",
+        "state": "Gauteng",
+        "postcode": "2191",
+        "latitude": -26.0639,
+        "longitude": 28.04014
+      },
+      "metadata": {
+        "visitsCount": 0,
+        "assignedVisitsCount": 0,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 41900374,
+      "reference": "1001",
+      "startTime": "2021-03-11T12:00:00.000000+00:00",
+      "endTime": "2021-03-11T14:00:00.000000+00:00",
+      "priority": 2,
+      "title": "Test",
+      "description": "Test Opp",
+      "jobNumber": "7852",
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-11T11:07:31.245825+00:00",
+      "modified": "2021-03-11T11:07:32.094011+00:00",
+      "client": {
+        "id": 15313370
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "12 Devonshire Avenue",
+        "line2": "Bryanston",
+        "city": "Sandton",
+        "state": "Gauteng",
+        "postcode": "2191",
+        "latitude": -26.0639,
+        "longitude": 28.04014
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 41933381,
+      "reference": "2000",
+      "startTime": "2021-03-15T13:20:00.000000+00:00",
+      "endTime": "2021-03-15T13:50:00.000000+00:00",
+      "priority": 2,
+      "title": "test",
+      "description": "testtt",
+      "jobNumber": "",
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-15T13:01:27.282943+00:00",
+      "modified": "2021-03-15T13:01:28.933097+00:00",
+      "client": {
+        "id": 15318678
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "198 Bryanston Drive",
+        "line2": "Bryanston",
+        "city": "Sandton",
+        "state": "Gauteng",
+        "postcode": "2191",
+        "latitude": -26.0483489,
+        "longitude": 28.0288434
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 0,
+        "unassignedVisitsCount": 1,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029690,
+      "reference": "1722",
+      "startTime": "2021-03-23T12:00:00.000000+00:00",
+      "endTime": "2021-03-23T12:30:00.000000+00:00",
+      "priority": 2,
+      "title": "DELIVER @ Serame",
+      "description": "-Deliver crates\n-Confirm how many Plinths available &amp;  colours",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:35.862594+00:00",
+      "client": {
+        "id": 15336517
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "18 Yaron Avenue, Lea Glen, Randburg, GP 1709, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "1709",
+        "latitude": -26.1922297,
+        "longitude": 27.9169135
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029691,
+      "reference": "1721",
+      "startTime": "2021-03-23T09:00:00.000000+00:00",
+      "endTime": "2021-03-23T10:00:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB Nokwanda Malevu",
+      "description": "Nokwanda Malevu: 082 658 2451\nInst faming work @ client",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2022-10-16T06:33:26.337858+00:00",
+      "client": {
+        "id": 15336518
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742048
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "17 The Valley Road, Westcliff, Randburg, GP 2193, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2193",
+        "latitude": -26.174994,
+        "longitude": 28.024508
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029692,
+      "reference": "1720",
+      "startTime": null,
+      "endTime": null,
+      "priority": 2,
+      "title": "COLLECT@ BC",
+      "description": "Collect Artwork for Nokwanda Malevu Installation",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-24T06:54:55.671591+00:00",
+      "client": {
+        "id": 15336519
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "Rand Steam Shopping Centre",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2092",
+        "latitude": -26.1819581,
+        "longitude": 28.0155727
+      },
+      "metadata": {
+        "visitsCount": 0,
+        "assignedVisitsCount": 0,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029693,
+      "reference": "1719",
+      "startTime": "2021-03-23T07:30:00.000000+00:00",
+      "endTime": "2021-03-23T08:00:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB Donald Diale",
+      "description": "Donald Diale : 083 6352205\n-Measure space to Install railing and Give measurements to Linda for Quote",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2022-10-16T06:33:37.525205+00:00",
+      "client": {
+        "id": 15336520
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742048
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "33 Culross Road, Bryanston, Sandton, GP 2191, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2191",
+        "latitude": -26.044138,
+        "longitude": 28.026829
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029694,
+      "reference": "1718",
+      "startTime": "2021-03-23T11:00:00.000000+00:00",
+      "endTime": "2021-03-23T12:00:00.000000+00:00",
+      "priority": 2,
+      "title": "DELIVER @ Ismail Variawa",
+      "description": "Ismail Variawa: +44 7584 474479\n(Fazila: 0721007819)\n-Deliver artwork to Client",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:52:38.407112+00:00",
+      "client": {
+        "id": 15336521
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "23 Lawley Avenue, Northcliff, Randburg, GP 2115, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2115",
+        "latitude": -26.145372,
+        "longitude": 27.9825665
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029695,
+      "reference": "1717",
+      "startTime": "2021-03-19T12:45:00.000000+00:00",
+      "endTime": "2021-03-19T13:45:00.000000+00:00",
+      "priority": 2,
+      "title": "COLLECT @Send & Receive",
+      "description": "Collect Crates- remove artwork from crates &amp; Del to CBG",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:39.682303+00:00",
+      "client": {
+        "id": 15336522
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "49 Golden Drive, Morehill, Benoni, GP 1501, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "1501",
+        "latitude": -26.1685167,
+        "longitude": 28.3554265
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029696,
+      "reference": "1716",
+      "startTime": "2021-03-19T11:30:00.000000+00:00",
+      "endTime": "2021-03-19T12:15:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB#7831 Meron Demise",
+      "description": "Meron Demise: 079 444 3483\nInst x1 Artwork",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:34.527823+00:00",
+      "client": {
+        "id": 15336523
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "8 Chesterfield Road, Bryanston, Sandton, GP 2191, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2191",
+        "latitude": -26.0699673,
+        "longitude": 28.0322291
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029697,
+      "reference": "1715",
+      "startTime": "2021-03-19T08:00:00.000000+00:00",
+      "endTime": "2021-03-19T08:45:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB#7880 Jo O Donoghue",
+      "description": "Jo O' Donoghue, 082 783 1973\n-Del &amp; Inst 3 Framing works\n-Pieces @ CBG",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:41.733870+00:00",
+      "client": {
+        "id": 15336524
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "250 Usutu Avenue, Gallo Manor, Sandton, GP 2052, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2052",
+        "latitude": -26.0621171,
+        "longitude": 28.0752798
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029698,
+      "reference": "1714",
+      "startTime": "2021-03-23T13:00:00.000000+00:00",
+      "endTime": "2021-03-23T13:30:00.000000+00:00",
+      "priority": 2,
+      "title": "COLLECT@ Solomon Omogboye",
+      "description": "Collect Artwork From Artist",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:42.711025+00:00",
+      "client": {
+        "id": 15336525
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "76 End Street, Doornfontein, Johannesburg, GP 2028, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2028",
+        "latitude": -26.20136,
+        "longitude": 28.05382
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029699,
+      "reference": "1713",
+      "startTime": "2021-03-19T09:00:00.000000+00:00",
+      "endTime": "2021-03-19T10:00:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB Mc Bride Nkhalamba",
+      "description": "McBride: 0734040115\n-Inst x3 Pieces@ client",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:38.626622+00:00",
+      "client": {
+        "id": 15336526
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "292 Bryanston Drive, Bryanston, Sandton, GP 2191, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2191",
+        "latitude": -26.05807,
+        "longitude": 28.04556
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029700,
+      "reference": "1712",
+      "startTime": "2021-03-18T08:00:00.000000+00:00",
+      "endTime": "2021-03-18T08:30:00.000000+00:00",
+      "priority": 2,
+      "title": "DELIVER@ Otto Weerdmuller",
+      "description": "Otto Weerdmuller: 082 990 3448\n- Deliverx 7 framed pieces  ( Anytime)",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:39.075151+00:00",
+      "client": {
+        "id": 15336527
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "119 12th Street, Parkmore, Sandton, GP 2196, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2196",
+        "latitude": -26.09743,
+        "longitude": 28.04591
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029701,
+      "reference": "1711",
+      "startTime": "2021-03-23T10:30:00.000000+00:00",
+      "endTime": "2021-03-23T12:30:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB @ Beck Ernst",
+      "description": "Remove Railing system &amp; inst in New space\nMove Artwork from old space to new space",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2022-10-16T06:33:17.756560+00:00",
+      "client": {
+        "id": 15336528
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742048
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "35 4th Avenue, Parkhurst, Randburg, GP 2193",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2193",
+        "latitude": -26.137989,
+        "longitude": 28.01764
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029702,
+      "reference": "1710",
+      "startTime": "2021-03-17T08:30:00.000000+00:00",
+      "endTime": "2021-03-17T14:30:00.000000+00:00",
+      "priority": 2,
+      "title": "Exhibition Installation",
+      "description": "Install artwork for Exhibition",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:41.314894+00:00",
+      "client": {
+        "id": 15336529
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "Rand Steam Shopping Center, Corner Napier /Barry Hertzog, Auckland Park",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2092",
+        "latitude": -26.1819581,
+        "longitude": 28.0155727
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029703,
+      "reference": "1709",
+      "startTime": "2021-03-18T07:00:00.000000+00:00",
+      "endTime": "2021-03-18T07:30:00.000000+00:00",
+      "priority": 2,
+      "title": "COLLECT @ Beck Ernst",
+      "description": "Beck Ernst: 0823000515\n-Collect x1 Artwork &amp; Del to their New space",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:38.947738+00:00",
+      "client": {
+        "id": 15336528
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "35 4th Avenue, Parkhurst, Randburg, GP 2193",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2193",
+        "latitude": -26.1379899,
+        "longitude": 28.01764
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029704,
+      "reference": "1708",
+      "startTime": "2021-03-17T13:30:00.000000+00:00",
+      "endTime": "2021-03-17T14:00:00.000000+00:00",
+      "priority": 2,
+      "title": "COLLECT@ Luigi Nicolosi",
+      "description": "Gemma Taylor: 0711035034\n-Collect Thirza Schaap Artwork to BC",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2022-11-25T16:16:29.080970+00:00",
+      "client": {
+        "id": 15336530
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742048
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "175 Empire Place, Sandton",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2196",
+        "latitude": -26.11217,
+        "longitude": 28.05074
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029705,
+      "reference": "1707",
+      "startTime": "2021-03-17T14:00:00.000000+00:00",
+      "endTime": "2021-03-17T14:45:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB Tom Mkhwanazi",
+      "description": "Tom Mkhwanazi: 083 650 0605\n-Inst x1 Sithole Leohang Piece (Anytime in the afternoon)\n-Call When En Route",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2022-11-25T16:16:20.887173+00:00",
+      "client": {
+        "id": 15336531
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742048
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "58 Mulbarton Road, Beverley, Sandton, GP 2191, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2191",
+        "latitude": -26.00866,
+        "longitude": 28.016193
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    },
+    {
+      "id": 42029706,
+      "reference": "1706",
+      "startTime": "2021-03-23T07:30:00.000000+00:00",
+      "endTime": "2021-03-23T10:30:00.000000+00:00",
+      "priority": 2,
+      "title": "JOB Marina Prando",
+      "description": "Marina Prando: 072506 5830\n-Inst +_ 20 Pieces @ Clients home\n-Call when En Route to get Access code",
+      "jobNumber": null,
+      "deleted": false,
+      "type": "normal",
+      "created": "2021-03-23T14:34:57.178600+00:00",
+      "modified": "2021-03-23T14:35:48.877066+00:00",
+      "client": {
+        "id": 15336532
+      },
+      "billingClient": null,
+      "status": {
+        "id": 742045
+      },
+      "account": {
+        "id": 45063
+      },
+      "address": {
+        "line1": "976 Livingstone Falls Crescent, Waterval City, Midrand, GP 2066, ZA",
+        "line2": null,
+        "city": null,
+        "state": null,
+        "postcode": "2066",
+        "latitude": -26.029663,
+        "longitude": 28.0929364
+      },
+      "metadata": {
+        "visitsCount": 1,
+        "assignedVisitsCount": 1,
+        "unassignedVisitsCount": 0,
+        "partsCount": 0,
+        "chargesCount": 0,
+        "timersCount": 0,
+        "notesCount": 0,
+        "parcelsCount": 0,
+        "paymentsCount": 0,
+        "documentsCount": 0
+      }
+    }
+  ],
+  "metadata": {
+    "page": 1,
+    "pagesCount": 0,
+    "recordsPerPage": 20,
+    "recordsCount": 0
+  }
+}
